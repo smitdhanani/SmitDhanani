@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Smit Dhanani</h1>
-<h3 align="center">A passionate flutter developer</h3>
-
 
 
 
